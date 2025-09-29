@@ -544,6 +544,14 @@
       "content": "https://bikedriving3dcheats.com/game/city/doreamonhouse.json",
       "isNew": true
     }
+    {
+      "id": 69,
+      "title": "Doreamon",
+      "image": "https://bikedriving3dcheats.com/newibd3dcp/images/doreamonhouse.jpg",
+      "type": "link",
+      "content": "https://bikedriving3dcheats.com/game/city/doreamonhouse.json",
+      "isNew": true
+    }
   ],
   "lastUpdated": "2025-09-23T05:50:22+00:00",
   "version": "1.0"
